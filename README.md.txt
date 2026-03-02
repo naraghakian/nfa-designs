@@ -1,0 +1,3 @@
+1. The question that gave me the most trouble was question 12. It was the question that made me think the longest and took the most time. I had to ensure I correctly handled the transition to the dead state after the fourth one and making sure the pro count didn't change. 
+2. None of the questions I chose had a result in a gold-st-ring.
+3. Overall. This assignment helped me better understand NFA transitions and gave me a chance to really understand the questions I need to focus on. 
